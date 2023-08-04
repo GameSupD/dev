@@ -1,7 +1,7 @@
 Fill this form to get your game in GameSup Dev:
 
 Game name:
-Download url (url to where the required files for the game are stored)
+Download url (url to where the required files for the game are stored):
 Game icon (url to where image is stored):
 Game images (url to where images are stored):
 Game description:
