@@ -1,4 +1,4 @@
-Fill this form to get your game in GameSup Dev:
+Fill in this form to get your game in GameSup Dev:
 
 Game name:
 Download url (url to where the required files for the game are stored):
@@ -7,4 +7,4 @@ Game images (url to where images are stored):
 Game description:
 Tags (up to 2 tags):
 
-After filling it, send your anwsers to supergames.contactme@gmail.com and a page in GameSup Dev for your game will be created!
+When you finish, send your answers to supergames.contactme@gmail.com and a page on GameSup Dev for your game will be created after some time!
