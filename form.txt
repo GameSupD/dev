@@ -6,5 +6,7 @@ Fill in this form to get your game in GameSup Dev:
 4. Game images (url to where images are stored):
 5. Game description:
 6. Tags (up to 2 tags):
+7. A username for you:
+8. Platform (Windows, Android, Online, etc.):
 
 When you finish, send your answers to supergames.contactme@gmail.com and a page on GameSup Dev for your game will be created after some time!
